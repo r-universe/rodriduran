@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "censo2022arg"]
 	path = censo2022arg
-	url = https://github.com/rodriduran/censo2022arg
+	url = https://github.com/cran/censo2022arg
